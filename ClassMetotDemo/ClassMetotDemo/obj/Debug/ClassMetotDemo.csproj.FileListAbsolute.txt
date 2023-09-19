@@ -1,0 +1,7 @@
+C:\Users\ELEYSEC\Desktop\ClassMetotDemo\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe.config
+C:\Users\ELEYSEC\Desktop\ClassMetotDemo\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe
+C:\Users\ELEYSEC\Desktop\ClassMetotDemo\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.pdb
+C:\Users\ELEYSEC\Desktop\ClassMetotDemo\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\ELEYSEC\Desktop\ClassMetotDemo\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\ELEYSEC\Desktop\ClassMetotDemo\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.exe
+C:\Users\ELEYSEC\Desktop\ClassMetotDemo\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.pdb
